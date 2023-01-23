@@ -11,6 +11,7 @@ A computer and information systems fresh graduate, highly motivated and self-dri
    <img align="left" src ="img/Graphical.png"/>
    <img src ="img/GOTP.png"/>
  <br>
+ </br>
  
  
  
