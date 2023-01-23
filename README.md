@@ -1,7 +1,7 @@
 
 <h2>Hi, I'm Hifdzullah!</h2>
 
-I am  a computer and information systems graduate, highly motivated and self-driven person who have the determination to achieve excellent results on any work or tasks in teamwork and independently. Very keen and willing to learn and seek to grow skills and experiences in IT. Interested in the area of software development, authentication security, and I’m currently learning on computer vision.
+I am  a computer and information systems graduate, highly motivated and self-driven person who have the determination to achieve excellent results on any work or tasks in teamwork and independently. Very keen and willing to learn and seek to grow skills and experiences in IT. Interested in the area of software development, graphical user authentication, and computer vision.
 
 <h2>👨‍💻 Individual Software Development Projects:</h2>
 
@@ -13,18 +13,16 @@ I am  a computer and information systems graduate, highly motivated and self-dri
   - <strong>Recall based graphical authentication:</strong> The recall of password image is based on anchoring and relaying technique, where any object within the image is selected according to user selection and than relay the information based on person experiences of using that object.
   - <strong>Recognition based graphical authentication:</strong> A graphical one time password that are implemented with randomly shuffle user image and decoy image and randomly generated OTP within the 8 x 8 grid layout.
   <br>
-  
    <img src ="img/GOTP_.png"/>
  
    
    
-<h2>👨‍💻 Teamwork Software Development Mini Projects:</h2>
+<h2>👨‍💻 Teamwork Software Development Mini Project:</h2>
 
 - <b>Desktop application for Predator Prey Simulation</b>
   - In this project i design the class diagram, use case for fox and rabbit simuation and assist in the development of desktop application for foxes and rabbit population simulation, this simulation features a real-time scenario of how the population of foxes and rabbit within the field varies over time. 
   - The development of the dektop application simulation is achieved using Object-oriented principles and JAVA FX.
  <br>
- 
      <img src ="img/Predator_prey.png"/>
    
    
