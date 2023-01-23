@@ -3,7 +3,7 @@
 
 I am  a computer and information systems graduate, highly motivated and self-driven person who have the determination to achieve excellent results on any work or tasks in teamwork and independently. Very keen and willing to learn and seek to grow skills and experiences in IT. Interested in the area of software development, authentication security, and I’m currently learning on computer vision.
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Individual Software Development Projects:</h2>
 
 - <b>Android Mobile Application for Local Non-goverment Job listing and Small Business Advertising</b>
   - <strong>Job searhing:</strong> A platoform for jobseekers to searchs for informations local job listings.
@@ -14,6 +14,10 @@ I am  a computer and information systems graduate, highly motivated and self-dri
   - <strong>Recognition based graphical authentication:</strong> A graphical one time password that are implemented with randomly shuffle user image and decoy image and randomly generated OTP within the 8 x 8 grid layout.
   <br>
    <img src ="img/GOTP.png"/>
+   
+<h2>👨‍💻 Teamwork Software Development Mini Projects:</h2>
+<b>Predator Prey Simulation </b>
+
 
 <h2>Certification</h2>
 
