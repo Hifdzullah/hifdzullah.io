@@ -13,7 +13,7 @@ I am  a computer and information systems graduate, highly motivated and self-dri
   - <strong>Recall based graphical authentication:</strong> The recall of password image is based on anchoring and relaying technique, where any object within the image is selected according to user selection and than relay the information based on person experiences of using that object.
   - <strong>Recognition based graphical authentication:</strong> A graphical one time password that are implemented with randomly shuffle user image and decoy image and randomly generated OTP within the 8 x 8 grid layout.
   <br>
-  </br>
+  
    <img src ="img/GOTP_.png"/>
  
    
@@ -24,7 +24,7 @@ I am  a computer and information systems graduate, highly motivated and self-dri
   - In this project i design the class diagram, use case for fox and rabbit simuation and assist in the development of desktop application for foxes and rabbit population simulation, this simulation features a real-time scenario of how the population of foxes and rabbit within the field varies over time. 
   - The development of the dektop application simulation is achieved using Object-oriented principles and JAVA FX.
  <br>
- </br>
+ 
      <img src ="img/Predator_prey.png"/>
    
    
