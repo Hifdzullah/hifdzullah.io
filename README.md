@@ -16,8 +16,10 @@ I am  a computer and information systems graduate, highly motivated and self-dri
    <img src ="img/GOTP.png"/>
    
 <h2>👨‍💻 Teamwork Software Development Mini Projects:</h2>
-<b>Predator Prey Simulation </b>
 
+- <b>Predator Prey Simulation Using JavaFX</b>
+  - Involved in the development of simulation of foxes and rabbit populations, this model features a real-time scenario of how the population of foxes and rabbit within the field varies over time. 
+   
 
 <h2>Certification</h2>
 
