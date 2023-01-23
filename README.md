@@ -10,9 +10,9 @@ I am  a computer and information systems graduate, highly motivated and self-dri
   - I had built a web application for an online banking user authentication that utlized three factor authentication that includes recall, recognition and OTP. The objective is to increase the recall rate and creating stronger password than traditional password. The recall of password image is based on anchoring and relaying technique, where any object within the image is selected according to user selection and than relay the information based on person experiences of using that object.The recognition technique is implemented based of graphical one time password, where and randomly generated OTP is entered according to the location of recognize image within the 8 x 8 grid layout. This project is built for an alternative password enhancing mechanisms that is less on the cognitve burden.
   
    <img align="left" src ="img/Graphical.png"/>
-   <img src ="img/GOTP.png"/>
+   <img  align="left" src ="img/GOTP.png"/>
  <br>
- </br>
+
  
  
  
