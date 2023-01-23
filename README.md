@@ -1,5 +1,6 @@
 
-A computer and information systems fresh graduate, highly motivated and self-driven person who have the determination to achieve excellent results on any work or tasks in teamwork and independently. A team player, an approachable, well-disciplined person, and a fresh graduate who is keen and willing to learn and seek to grow skills and experiences. Interested in the area of software development, security and computer vision.
+<h2>Hi, I'm Hifdzullah!</h2>
+I am  a computer and information systems graduate, highly motivated and self-driven person who have the determination to achieve excellent results on any work or tasks in teamwork and independently. A team player, an approachable, well-disciplined person,an is keen and willing to learn and seek to grow skills and experiences. Interested in the area of software development, security and computer vision.
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
