@@ -15,8 +15,6 @@ I am  a computer and information systems graduate, highly motivated and self-dri
   <br>
    <img src ="img/GOTP.png"/>
 
-
-
 <h2>Certification</h2>
 
 - Microsoft Azure Fundamentals
