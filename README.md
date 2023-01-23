@@ -20,8 +20,8 @@ I am  a computer and information systems graduate, highly motivated and self-dri
 <h2>👨‍💻 Teamwork Software Development Mini Project:</h2>
 
 - <b>Desktop application for Predator Prey Simulation</b>
-  - In this project i design the class diagram, use case for fox and rabbit simuation and assist in the development of desktop application for foxes and rabbit population simulation, this simulation features a real-time scenario of how the population of foxes and rabbit within the field varies over time. 
-  - The development of the dektop application simulation is achieved using Object-oriented principles and JAVA FX.
+  - In this project i design the class diagram, use case for fox and rabbit simuation and assists in the development of desktop application for foxes and rabbit population simulation, this simulation features a real-time scenario of how the population of foxes and rabbit within the field varies over time. 
+  - The development of the dektop application simulation is achieved by using Object-oriented principles and JAVA FX.
  <br>
      <img src ="img/Predator_prey.png"/>
    
