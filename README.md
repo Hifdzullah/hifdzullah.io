@@ -33,12 +33,15 @@ I am  a computer and information systems graduate, highly motivated and self-dri
 - Microsoft Azure Fundamentals (2022)
 
 
-<h2>Skills</h2>
+<h2>Front-end</h2>
 
 - HTML
 - CSS
+- Javascript
+
+<h2>Back-end</h2>
+
 - PHP
 - JAVA
-- Javascript
 - SQL
 - Python
