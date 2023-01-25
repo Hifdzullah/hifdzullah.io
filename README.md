@@ -1,8 +1,6 @@
 <h1>My Portfolio</h1>
 <h2>Hi, I'm Hifdzullah!</h2>
 
-I am  a computer and information systems graduate, highly motivated and self-driven person who have the determination to achieve excellent results on any work or tasks in teamwork and independently. Very keen and willing to learn and seek to grow skills and experiences in IT. Interested in the area of software development, graphical user authentication, and I'm currently learning computer vision.
-
 <h2>👨‍💻 Individual Software Development Projects:</h2>
 
 - <b>Hybrid Graphical User Authentication Using Graphical One-Time-Password and Anchoring and Relay technique for Enhanced Password Security and Memorability for Web-Based Online Banking User Authentication</b>
