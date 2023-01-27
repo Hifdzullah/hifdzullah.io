@@ -3,10 +3,11 @@
 
 <h2>👨‍💻 Individual Software Development Projects:</h2>
 
-- <b>Hybrid Graphical User Authentication Using Graphical One-Time-Password and Anchoring and Relay technique for Enhanced Password Security and Memorability for Web-Based Online Banking User Authentication</b>
-  - <strong>Three factor authentication:</strong> I had built a web application for an online banking user authentication that utilized three factor authentication that includes recall, recognition and OTP.
-  - <strong>Recall based graphical authentication:</strong> The recall of password image is based on anchoring and relaying technique, where any object within the image is selected according to user selection and than relay the information based on person experiences of using that object.
-  - <strong>Recognition based graphical authentication:</strong> A graphical one time password that are implemented with randomly shuffle user image and decoy image and randomly generated OTP within the 8 x 8 grid layout.
+- <b>Hybrid Graphical User Authentication Using Graphical One-Time-Password and Anchoring and Relay technique for Enhanced Password Security and Memorability for Web-Based Online Banking User Authentication</b><br>
+ <br>I had built a web based hybird graphical user authentication for an online banking user authentication that utilized recall based graphical user authentication, recognition based graphical user authentication and dynamic grapical one-time password.
+  - <strong>Recall based graphical authentication:</strong> The recall of password image is based on anchoring and relaying technique, where any object within the image is selected according to user selection and relay the meaning of the selected image based on user personal experiences.
+  - <strong>Recognition based graphical authentication:</strong> Randomly shuffle two user selected image with decoy image within the 8 x 8 grid layout.
+   - <strong>Dynamic graphical one-time password:</strong> Randomly generated graphical one time password , where the user must enter the OTP according to the location of user images and the given OTP locations. 
   <br>
    <img src ="img/GOTP_.png"/>
    
