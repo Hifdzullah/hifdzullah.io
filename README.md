@@ -1,6 +1,6 @@
 <h1>My Portfolio</h1>
 <h2>About me</h2>
-Hi there! I am Hj Hifdzullah Matali from Bandar Seri Begawan, Brunei Darussalam. I graduated from the University of Technology Brunei with a Master's Degree in Computing and Information Systems, additionally, I earned my Bachelor of Degree in Computer Science with Honours from the University of Chester, UK. I have experience in many programming languages, such as HTML, CSS, JavaScript, PHP, Phyton, C#, C++, Java, and SQL. I am experienced in developing websites and android mobile applications. I also have learnt to develop a simulation and game using the Java FX library. 
+Hi there! I am Hj Hifdzullah Matali from Bandar Seri Begawan, Brunei Darussalam. I graduated from the University of Technology Brunei with a Master's Degree in Computing and Information Systems, additionally, I earned my Bachelor of Degree in Computer Science with Honours from the University of Chester, UK. I have experience in many programming languages, such as HTML, CSS, JavaScript, PHP, Phyton, C#, C++, Java, and SQL. I am experienced in developing websites and android mobile applications. I also had learnt to develop a simulation and game using the Java FX library. 
 
 <h2>👨‍💻 Individual Software Development Projects:</h2>
 
@@ -15,6 +15,7 @@ Hi there! I am Hj Hifdzullah Matali from Bandar Seri Begawan, Brunei Darussalam.
 - <b>Android Mobile Application for Local Private Sector Job posting and Small Business Product Advertising</b>
   - <strong>Job searching:</strong> A platform for local private sectors to share information of job listing to the jobseekers.
   - <strong>Small business advertising:</strong> A platform for local small business to expose and to share information on selling their products to the public. 
+  - <strong>Admin:</strong> Provide the administator with the capabilites to create, update, delete, and read.
  
    
 <h2>👨‍💻 Teamwork Software Development Mini Project:</h2>
@@ -26,10 +27,10 @@ Hi there! I am Hj Hifdzullah Matali from Bandar Seri Begawan, Brunei Darussalam.
      <img src ="img/Predator_prey.png"/>
      
  - <b>Desktop application for Tower of Hanoi</b>   
-   - In this project i had designed the class diagram, the use case and assists in the development of desktop application for Tower of Hanoi game.
+   - In this project i had designed and created the class diagram, activity diagram, use case diagram and assists in the development of desktop application for Tower of Hanoi game.
    - The development of the dektop application game is implemented using Object-oriented principles and JAVA FX library.
   <br>
-     <img src ="img/Predator_prey.png"/>
+     <img src ="img/Towerofhanoi.png"/>
  
      
    
