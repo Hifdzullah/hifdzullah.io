@@ -20,14 +20,16 @@ Hi there! I am Hj Hifdzullah Matali from Bandar Seri Begawan, Brunei Darussalam.
 <h2>👨‍💻 Teamwork Software Development Mini Project:</h2>
 
 - <b>Desktop application for Predator Prey Simulation</b>
-  - In this project i design the class diagram, use case for fox and rabbit simuation and assists in the development of desktop application for foxes and rabbit population simulation, this simulation features a real-time scenario of how the population of foxes and rabbit within the field varies over time. 
-  - The development of the dektop application simulation is achieved by using Object-oriented principles and JAVA FX.
+  - In this project i had designed the class diagram, the use case and assists in the development of desktop application for foxes and rabbit population simulation, this simulation features a real-time scenario of how the population of foxes and rabbit within the field varies over time. 
+  - The development of the dektop application simulation is implemented using Object-oriented principles and JAVA FX library.
  <br>
      <img src ="img/Predator_prey.png"/>
      
  - <b>Desktop application for Tower of Hanoi</b>   
-   - In this project i design the class diagram, use case and assists in the development of Tower of Hanoi Game.
-   - The development of the dektop application simulation is achieved by using Object-oriented principles and JAVA FX.
+   - In this project i had designed the class diagram, the use case and assists in the development of desktop application for Tower of Hanoi game.
+   - The development of the dektop application game is implemented using Object-oriented principles and JAVA FX library.
+  <br>
+     <img src ="img/Predator_prey.png"/>
  
      
    
