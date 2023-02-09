@@ -1,6 +1,6 @@
 <h1>My Portfolio</h1>
 <h2>About me</h2>
-Hi there!, I am Hj Hifdzullah Matali from Bandar Seri Begawan, Brunei Darussalam. I graduated from University of Technology Brunei in Master's Degree of Computing and Infromation Systems, additionally i earned my Bachelor of Degree in Computer Science with Honours from University of Chester, UK. I have experience in many different programming lanaguages such as HTML, CSS, JavaScript, PHP, Phyton, C#, C++, Java, and SQL. I had an expereince in developing website, android mobile application, and game using Java FX library. 
+Hi there! I am Hj Hifdzullah Matali from Bandar Seri Begawan, Brunei Darussalam. I graduated from the University of Technology Brunei with a Master's Degree in Computing and Information Systems, additionally, I earned my Bachelor of Degree in Computer Science with Honours from the University of Chester, UK. I have experience in many programming languages, such as HTML, CSS, JavaScript, PHP, Phyton, C#, C++, Java, and SQL. I am experienced in developing websites and android mobile applications. I also have learnt to develop a simulation and game using the Java FX library. 
 
 <h2>👨‍💻 Individual Software Development Projects:</h2>
 
