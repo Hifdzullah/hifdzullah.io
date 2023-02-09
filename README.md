@@ -1,5 +1,6 @@
 <h1>My Portfolio</h1>
-<h2>Hi, I'm Hifdzullah!</h2>
+<h2>About me</h2>
+Hi there!, I am Hj Hifdzullah Matali from Bandar Seri Begawan, Brunei Darussalam. I graduated from University of Technology Brunei in Master's Degree of Computing and Infromation Systems, additionally i earned my Bachelor of Degree in Computer Science with Honours from University of Chester, UK. I have experience in many different programming lanaguages such as HTML, CSS, JavaScript, PHP, Phyton, C#, C++, Java, and SQL. I had an expereince in developing website, android mobile application, and game using Java FX library. 
 
 <h2>👨‍💻 Individual Software Development Projects:</h2>
 
@@ -16,7 +17,6 @@
   - <strong>Small business advertising:</strong> A platform for local small business to expose and to share information on selling their products to the public. 
  
    
-   
 <h2>👨‍💻 Teamwork Software Development Mini Project:</h2>
 
 - <b>Desktop application for Predator Prey Simulation</b>
@@ -24,23 +24,10 @@
   - The development of the dektop application simulation is achieved by using Object-oriented principles and JAVA FX.
  <br>
      <img src ="img/Predator_prey.png"/>
+     
+ - <b>Desktop application for Tower of Hanoi</b>   
+   - In this project i design the class diagram, use case and assists in the development of Tower of Hanoi Game.
+   - The development of the dektop application simulation is achieved by using Object-oriented principles and JAVA FX.
+ 
+     
    
-   
-
-<h2>Certification</h2>
-
-- Microsoft Azure Fundamentals (2022)
-
-
-<h2>Front-end</h2>
-
-- HTML
-- CSS
-- Javascript
-
-<h2>Back-end</h2>
-
-- PHP
-- JAVA
-- SQL
-- Python
