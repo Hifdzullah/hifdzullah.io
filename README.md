@@ -16,7 +16,8 @@ Hi there! I am Hj Hifdzullah Matali from Bandar Seri Begawan, Brunei Darussalam.
   - <strong>Job searching:</strong> A platform for local private sectors to share information of job listing to the jobseekers.
   - <strong>Small business advertising:</strong> A platform for local small business to expose and to share information on selling their products to the public. 
   - <strong>Admin:</strong> Provide the administator with the capabilites to create, update, delete, and read.
- 
+   <br>
+   <img src ="img/JobBusinessBrunei.png"/>
    
 <h2>👨‍💻 Teamwork Software Development Mini Project:</h2>
 
