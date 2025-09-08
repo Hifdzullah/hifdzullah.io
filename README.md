@@ -1,6 +1,6 @@
 <h1>My Portfolio</h1>
 <h2>About me</h2>
-Hi there! I am Hifdzullah from Bandar Seri Begawan, Brunei Darussalam. I graduated from the University of Technology Brunei with a Master's Degree in Computing and Information Systems, additionally, I earned my Bachelor of Degree in Computer Science with Honours from the University of Chester, UK. I have experience in many programming languages, such as HTML, CSS, Vue.js, Laravel PHP, Phyton, Java, Dart and SQL. I am experienced in developing websites and android mobile applications. I also had learnt to develop a simulation and game using the Java FX library. 
+Hi there! I am Hifdzullah from Bandar Seri Begawan, Brunei Darussalam. I graduated with a Master's Degree in Computing and Information Systems, additionally, I earned my Bachelor of Degree in Computer Science with Honours from the University of Chester, UK. I have experience in many programming languages, such as HTML, CSS, Vue.js, Laravel PHP, Phyton, Java, Dart and SQL. I am experienced in developing websites and android mobile applications. I also had learnt to develop a simulation and game using the Java FX library. 
 
 <h2>👨‍💻 Individual Software Development Projects:</h2>
 
