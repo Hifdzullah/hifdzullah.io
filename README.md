@@ -34,6 +34,8 @@ In addition, I have experience developing simulations and games using the <b>Jav
   <br>
    <img src ="img/GOTP_.png"/>
    
+   <br></br>
+   
 - <b>Android Mobile Application for Local Private Sector Job posting and Small Business Product Advertising</b>
   - <strong>Job searching:</strong> A platform for local private sectors to share information of job listing to the jobseekers.
   - <strong>Small business advertising:</strong> A platform for local small business to expose and to share information on selling their products to the public. 
