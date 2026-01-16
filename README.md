@@ -9,11 +9,16 @@ In addition, I have experience developing simulations and games using the <b>Jav
 <h2>👨‍💻 Individual Research Development Projects:</h2>
 
 - <b>Hybrid Graphical User Authentication for Web-Based Online Banking Using Anchoring and Relaying Recall Techniques and Graphical One-Time Password</b><br>
- <br>I developed a web-based hybrid graphical user authentication system for online banking, which integrates recall-based graphical authentication, recognition-based graphical authentication, and a dynamic graphical one-time password (OTP) mechanism. The system was designed to enhance security and usability by combining multiple authentication approaches while reducing reliance on traditional text-based passwords.
+ <br>Description: I developed a web-based hybrid graphical user authentication system for online banking, which integrates recall-based graphical authentication, recognition-based graphical authentication, and a dynamic graphical one-time password (OTP) mechanism. 
+Purpose: The system was designed to enhance security and usability by combining multiple authentication approaches while reducing reliance on traditional text-based passwords.
+
+<br>
+<p>Core Components</p>
+</br>
  
-  - <strong>Recall based graphical authentication:</strong> <b>Recall-based graphical authentication</b> This system is based on an anchoring and relaying technique, where users select meaningful picture within a password image. The authentication process relies on the user’s ability to recall the image by anchoring selected objects to personal experiences and relaying the meaning associated with those objects, making the password easier to remember while remaining difficult for attackers to guess.
-  - <strong>Recognition based graphical authentication:</strong> In the recognition-based graphical authentication phase, <b>two registered images are randomly positioned among decoy images within an 8 × 8 grid layout</b>. The randomized placement ensures that image positions vary across sessions, enhancing security against shoulder surfing and pattern-based attacks.
-   - <strong>Dynamic graphical one-time password:</strong> In the dynamic graphical OTP phase, the system generates a session-based random one-time password. User must enter the OTP according to the location of user images and the given OTP locations ensuring that each authentication attempt uses a unique One-Time-Password.
+  - <strong>Recall based graphical authentication:</strong> <b>Recall-based graphical authentication</b> Users select meaningful objects within a password image and recall them by anchoring the objects to personal experiences and relaying their associated meanings, making the password memorable yet difficult to guess.
+  - <strong>Recognition based graphical authentication:</strong> In this phase, <b>two registered images are randomly positioned among decoy images within an 8 × 8 grid layout</b>. The randomized placement ensures that image positions vary across sessions, enhancing security against shoulder surfing and pattern-based attacks.
+   - <strong>Dynamic graphical one-time password:</strong> In phase, the system generates a session-based random one-time password. User must enter the OTP according to the location of user images and the given OTP locations ensuring that each authentication attempt uses a unique One-Time-Password.
   
   <br>
    <img src ="img/GOTP_.png"/>
