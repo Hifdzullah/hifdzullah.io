@@ -70,15 +70,21 @@ In addition, I have experience developing simulations and games using the <b>Jav
    <br>
    <img src ="img/JobBusinessBrunei.png"/>
    <br>
+   <br>
+   
 <h2>👨‍💻 Teamwork Software Development Mini Project:</h2>
 
 - <b>Desktop application for Predator Prey Simulation</b>
-  - In this project i had designed the class diagram, the use case and assists in the development of desktop application for foxes and rabbit population simulation, this simulation features a real-time scenario of how the population of foxes and rabbit within the field varies over time. 
-  - The development of the dektop application simulation is implemented using Object-oriented principles and JAVA FX library.
+<br>
+<br>
+  - In this project, I designed the class diagram and use case model and assisted in the development of a desktop application <b> simulating fox and rabbit populations</b>. The simulation models the populations of <b>foxes and rabbits over time within a defined field</b>, showing how their numbers vary dynamically based on interactions between species.
+  - The desktop application was developed using <b> object-oriented principles<b> and the <b>JavaFX library</b>, providing an interactive, real-time visual representation of population dynamics.
  <br>
      <img src ="img/Predator_prey.png"/>
      
- - <b>Desktop application for Tower of Hanoi</b>   
+ - <b>Desktop application for Tower of Hanoi</b>
+   <br>
+   <br>
    - In this project i had designed and created the class diagram, activity diagram, use case diagram and assists in the development of desktop application for Tower of Hanoi game.
    - The development of the dektop application game is implemented using Object-oriented principles and JAVA FX library.
   <br>
