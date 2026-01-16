@@ -2,7 +2,9 @@
 <h2>About me</h2>
 My name Hifdzullah from Bandar Seri Begawan, Brunei Darussalam. I hold a <b>Master's Degree in Computing and Information Systems</b> and <b>Bachelor of Science with Honours in Computer Science </b> from the University of Chester, United Kingdom. 
 <br></br>
-I have experience working with wide range of computer programming languages and technologies, such as HTML, CSS, Vue.js, Laravel PHP, Phyton, Java, Tensor Flow, Dart and SQL. My technical background includes <b>Front-end development, Backend system development, Mobile Application development and Computer Vision in Artificial Intelligence (AI)</b>. 
+I have experience working with wide range of computer programming languages and technologies, such as HTML, CSS, Vue.js, Laravel PHP, Phyton, Java, Tensor Flow, Dart and SQL. 
+<br></br>
+My technical background includes <b>Front-end development, Backend system development, Mobile Application development and Computer Vision in Artificial Intelligence (AI)</b>. 
 <br></br>
 In addition, I have experience developing simulations and games using the <b>JavaFX</b>b>library, which strengthened my understanding of object-oriented programming, UI design, and application logic. 
 
