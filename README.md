@@ -33,15 +33,14 @@ In addition, I have experience developing simulations and games using the <b>Jav
   <br>
    <img src ="img/GOTP_.png"/>
   </br>
-  
 - <b>Android Mobile Application for Local Private Sector Job posting and Small Business Product Advertising</b>
-<br></br>
-  <strong>Project Description:</strong>
-  <p>This project involves the development of an Android mobile application that serves as a centralized platform for local brunei private sector job postings and       small business product advertising. The application connects job seekers with employment opportunities while enabling small businesses to promote their  
-     products to the public through a mobile-friendly interface. </p>
- <strong> Purpose of the system:</strong> 
- <p>The purpose of this application is to support local economic growth by improving access to job opportunities and increasing the visibility of small businesses through a single, easy-to-use mobile platform.</p>
-<br>
+  <br></br>
+    <strong>Project Description:</strong>
+    <p>This project involves the development of an Android mobile application that serves as a centralized platform for local brunei private sector job postings andsmall business product advertising. The application connects job seekers with employment opportunities while enabling small businesses to promote their  
+       products to the public through a mobile-friendly interface. </p>
+   <strong> Purpose of the system:</strong> 
+   <p>The purpose of this application is to support local economic growth by improving access to job opportunities and increasing the visibility of small businesses through a single, easy-to-use mobile platform.</p>
+  <br>
  <p><strong>Application Features:</strong></p>
  
  <ol>
@@ -78,6 +77,7 @@ In addition, I have experience developing simulations and games using the <b>Jav
    <br>
    <br>
   - In this project, I designed the class diagram and use case model and assisted in the development of a desktop application <b> simulating fox and rabbit populations</b>. The simulation models the populations of <b>foxes and rabbits over time within a defined field</b>, showing how their numbers vary dynamically based on interactions between species.
+    <br>
   - The desktop application was developed using <b> object-oriented principles<b> and the <b>JavaFX library</b>, providing an interactive, real-time visual representation of population dynamics.
  <br>
      <img src ="img/Predator_prey.png"/>
