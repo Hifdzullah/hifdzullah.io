@@ -19,17 +19,17 @@ In addition, I have experience developing simulations and games using the <b>Jav
  <ol>
   <li>
     <strong>Recall-based graphical authentication:</strong>
-    Users select meaningful objects within a password image and recall them by anchoring the objects to personal experiences and relaying their associated meanings, making the password memorable yet difficult to guess.
+    <p>Users select meaningful objects within a password image and recall them by anchoring the objects to personal experiences and relaying their associated meanings, making the password memorable yet difficult to guess.</p>
   </li>
 
   <li>
     <strong>Recognition-based graphical authentication:</strong>
-    Two registered images are randomly positioned among decoy images within an <strong>8 × 8 grid layout</strong>. The randomized placement ensures that image positions vary across sessions, enhancing resistance to shoulder surfing and pattern-based attacks.
+    <p>Two registered images are randomly positioned among decoy images within an <strong>8 × 8 grid layout</strong>. The randomized placement ensures that image positions vary across sessions, enhancing resistance to shoulder surfing and pattern-based attacks.</p>
   </li>
 
   <li>
     <strong>Dynamic graphical one-time password:</strong>
-    The system generates a session-based random one-time password. Users enter the OTP based on the locations of their registered images and the system-defined OTP reference locations, ensuring that each authentication attempt uses a unique one-time password.
+    <p>The system generates a session-based random one-time password. Users enter the OTP based on the locations of their registered images and the system-defined OTP reference locations, ensuring that each authentication attempt uses a unique one-time password.</p>
 
   <br>
    <img src ="img/GOTP_.png"/>
