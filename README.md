@@ -13,12 +13,14 @@ In addition, I have experience developing simulations and games using the <b>Jav
 <br></br>
 <strong> Purpose of the system:</strong> The system was designed to enhance security and usability by combining <b>three core authentication components</b> reducing reliance on traditional text-based passwords.
 
-<br></br>
 <p><strong>Core Components:</strong></p>
  
-  1. <strong>Recall based graphical authentication:</strong> <b>Recall-based graphical authentication</b> Users select meaningful objects within a password image and recall them by anchoring the objects to personal experiences and relaying their associated meanings, making the password memorable yet difficult to guess.
-  2. <strong>Recognition based graphical authentication:</strong> In this phase, <b>two registered images are randomly positioned among decoy images within an 8 × 8 grid layout</b>. The randomized placement ensures that image positions vary across sessions, enhancing security against shoulder surfing and pattern-based attacks.
-  3. <strong>Dynamic graphical one-time password:</strong> In phase, the system generates a session-based random one-time password. User must enter the OTP according to the location of user images and the given OTP locations ensuring that each authentication attempt uses a unique One-Time-Password.
+  1.  <strong>Recall based graphical authentication:</strong>
+      Users select meaningful objects within a password image and recall them by anchoring the objects to personal experiences and relaying their associated meanings, making the password memorable yet difficult to guess.
+  2.  <strong>Recognition based graphical authentication:</strong>
+      In this phase, <b>two registered images are randomly positioned among decoy images within an 8 × 8 grid layout</b>. The randomized placement ensures that image positions vary across sessions, enhancing security against shoulder surfing and pattern-based attacks.
+  3.  <strong>Dynamic graphical one-time password:</strong>
+      In this phase, the system generates a session-based random one-time password. User must enter the OTP according to the location of user images and the given OTP locations ensuring that each authentication attempt uses a unique One-Time-Password.
   
   <br>
    <img src ="img/GOTP_.png"/>
