@@ -34,7 +34,6 @@ In addition, I have experience developing simulations and games using the <b>Jav
    <img src ="img/GOTP_.png"/>
   </br>
   
-
 - <b>Android Mobile Application for Local Private Sector Job posting and Small Business Product Advertising</b>
 <br></br>
   <strong>Project Description:</strong>
@@ -42,8 +41,8 @@ In addition, I have experience developing simulations and games using the <b>Jav
      products to the public through a mobile-friendly interface. </p>
  <strong> Purpose of the system:</strong> 
  <p>The purpose of this application is to support local economic growth by improving access to job opportunities and increasing the visibility of small businesses through a single, easy-to-use mobile platform.</p>
-
- <p><strong>Application Feature:</strong></p>
+<br>
+ <p><strong>Application Features:</strong></p>
  
  <ol>
   <li>
@@ -68,10 +67,9 @@ In addition, I have experience developing simulations and games using the <b>Jav
   </li>
 </ol>
 
-
    <br>
    <img src ="img/JobBusinessBrunei.png"/>
-   
+   <br>
 <h2>👨‍💻 Teamwork Software Development Mini Project:</h2>
 
 - <b>Desktop application for Predator Prey Simulation</b>
