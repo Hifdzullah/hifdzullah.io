@@ -78,7 +78,8 @@ In addition, I have experience developing simulations and games using the <b>Jav
 - <b>Desktop application for Predator Prey Simulation</b>
    <br>
    <br>
-  - In this project, I designed the class diagram and use case model and assisted in the development of a desktop application <b> simulating fox and rabbit populations</b>. The simulation models the populations of <b>foxes and rabbits over time within a defined field</b>, showing how their numbers vary dynamically based on interactions between species.
+  - In this project, I designed the class diagram and use case model and assisted in the development of a desktop application <b> simulating fox and rabbit populations</b>.
+  - The simulation models the populations of <b>foxes and rabbits over time within a defined field</b>, showing how their numbers vary dynamically based on interactions between species.
     <br>
   - The desktop application was developed using <b> object-oriented principles<b> and the <b>JavaFX library</b>, providing an interactive, real-time visual representation of population dynamics.
  <br>
