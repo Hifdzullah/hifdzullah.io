@@ -1,15 +1,17 @@
 <h1>My Portfolio</h1>
 <h2>About me</h2>
-Hi there! I am Hifdzullah from Bandar Seri Begawan, Brunei Darussalam. I hold a <b>Master's Degree in Computing and Information Systems</b> and <b>Bachelor of Science with Honours in Computer Science</b> from the University of Chester, United Kingdom. 
+My name Hifdzullah from Bandar Seri Begawan, Brunei Darussalam. I hold a <b>Master's Degree in Computing and Information Systems</b> and <b>Bachelor of Science with Honours in Computer Science </b> from the University of Chester, United Kingdom. 
 <br></br>
-I have experience working with wide range og computer programming languages and technologies, such as HTML, CSS, Vue.js, Laravel PHP, Phyton, Java, Dart and SQL. My technical background includes front-end development, backend system development, mobile application development and computer vision in artificial intelligence. 
+I have experience working with wide range of computer programming languages and technologies, such as HTML, CSS, Vue.js, Laravel PHP, Phyton, Java, Tensor Flow, Dart and SQL. My technical background includes front-end development, backend system development, mobile application development and computer vision in artificial intelligence. 
 <br></br>
 In addition, I have experience developing simulations and games using the JavaFX library, which strengthened my understanding of object-oriented programming, UI design, and application logic. 
 
-<h2>👨‍💻 Individual Software Development Projects:</h2>
+<h2>👨‍💻 Individual Research Development Projects:</h2>
 
 - <b>Hybrid Graphical User Authentication Using Graphical One-Time-Password and Anchoring and Relay technique for Enhanced Password Security and Memorability for Web-Based Online Banking User Authentication</b><br>
- <br>I had built a web based hybird graphical user authentication for an online banking user authentication that utilized recall based graphical user authentication, recognition based graphical user authentication and dynamic grapical one-time password.
+
+ <br>I developed a web-based hybrid graphical user authentication system for online banking, which integrates recall-based graphical authentication, recognition-based graphical authentication, and a dynamic graphical one-time password (OTP) mechanism. The system was designed to enhance security and usability by combining multiple authentication approaches while reducing reliance on traditional text-based passwords.
+ 
   - <strong>Recall based graphical authentication:</strong> The recall of password image is based on anchoring and relaying technique, where any object within the image is selected according to user selection and relay the meaning of the selected image based on user personal experiences.
   - <strong>Recognition based graphical authentication:</strong> Randomly shuffle two user selected image with decoy image within the 8 x 8 grid layout.
    - <strong>Dynamic graphical one-time password:</strong> Randomly generated graphical one time password , where the user must enter the OTP according to the location of user images and the given OTP locations. 
