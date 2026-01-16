@@ -10,7 +10,6 @@ In addition, I have experience developing simulations and games using the <b>Jav
 
 - <b>Hybrid Graphical User Authentication for Web-Based Online Banking Using Anchoring and Relaying Recall Techniques and Graphical One-Time Password</b><br>
  <br><strong>Project Description:</strong> <p>I developed a web-based hybrid graphical user authentication system for online banking, which integrates recall-based graphical authentication, recognition-based graphical authentication, and a dynamic graphical one-time password (OTP) mechanism.</p>
-<br></br>
 <strong> Purpose of the system:</strong><p> The system was designed to enhance security and usability by combining <b>three core authentication components</b> reducing reliance on traditional text-based passwords.</p>
 <br></br>
 
@@ -39,7 +38,8 @@ In addition, I have experience developing simulations and games using the <b>Jav
 - <b>Android Mobile Application for Local Private Sector Job posting and Small Business Product Advertising</b>
 <br></br>
   <strong>Project Description:</strong>
-  <p> This project involves the development of an Android mobile application that serves as a centralized platform for local brunei private sector job postings and small business product advertising. The application connects job seekers with employment opportunities while enabling small businesses to promote their products to the public through a mobile-friendly interface. </p>
+  <p>This project involves the development of an Android mobile application that serves as a centralized platform for local brunei private sector job postings and       small business product advertising. The application connects job seekers with employment opportunities while enabling small businesses to promote their  
+     products to the public through a mobile-friendly interface. </p>
  <strong> Purpose of the system:</strong> 
  <p>The purpose of this application is to support local economic growth by improving access to job opportunities and increasing the visibility of small businesses through a single, easy-to-use mobile platform.</p>
 
@@ -67,6 +67,7 @@ In addition, I have experience developing simulations and games using the <b>Jav
     </p>
   </li>
 </ol>
+
 
    <br>
    <img src ="img/JobBusinessBrunei.png"/>
