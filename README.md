@@ -9,8 +9,9 @@ In addition, I have experience developing simulations and games using the <b>Jav
 <h2>👨‍💻 Individual Research Development Projects:</h2>
 
 - <b>Hybrid Graphical User Authentication for Web-Based Online Banking Using Anchoring and Relaying Recall Techniques and Graphical One-Time Password</b><br>
- <br>Description: I developed a web-based hybrid graphical user authentication system for online banking, which integrates recall-based graphical authentication, recognition-based graphical authentication, and a dynamic graphical one-time password (OTP) mechanism. 
-Purpose: The system was designed to enhance security and usability by combining multiple authentication approaches while reducing reliance on traditional text-based passwords.
+ <br>I developed a web-based hybrid graphical user authentication system for online banking, which integrates recall-based graphical authentication, recognition-based graphical authentication, and a dynamic graphical one-time password (OTP) mechanism.
+<br></br>
+<strong> Purpose of system:</strong> The system was designed to enhance security and usability by combining multiple authentication approaches while reducing reliance on traditional text-based passwords.
 
 <br>
 <p>Core Components</p>
