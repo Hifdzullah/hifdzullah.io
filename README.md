@@ -36,12 +36,11 @@ In addition, I have experience developing simulations and games using the <b>Jav
   <br>
   <br>
 - <b>Android Mobile Application for Local Private Sector Job posting and Small Business Product Advertising</b>
-  <br></br>
-    <strong>Project Description:</strong>
-    <p>This project involves the development of an Android mobile application that serves as a centralized platform for local brunei private sector job postings andsmall business product advertising. The application connects job seekers with employment opportunities while enabling small businesses to promote their  
-       products to the public through a mobile-friendly interface. </p>
-   <strong> Purpose of the system:</strong> 
-   <p>The purpose of this application is to support local economic growth by improving access to job opportunities and increasing the visibility of small businesses through a single, easy-to-use mobile platform.</p>
+   <br></br>
+     <strong>Project Description:</strong>
+     <p>This project involves the development of an Android mobile application that serves as a centralized platform for local brunei private sector job postings andsmall business product advertising. The application connects job seekers with employment opportunities while enabling small businesses to promote their products to the public through a mobile-friendly interface. </p>
+    <strong> Purpose of the system:</strong> 
+    <p>The purpose of this application is to support local economic growth by improving access to job opportunities and increasing the visibility of small businesses through a single, easy-to-use mobile platform.</p>
   
  <p><strong>Application Features:</strong></p>
  
