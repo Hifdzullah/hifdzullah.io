@@ -37,9 +37,38 @@ In addition, I have experience developing simulations and games using the <b>Jav
    <br></br>
    
 - <b>Android Mobile Application for Local Private Sector Job posting and Small Business Product Advertising</b>
-  - <strong>Job searching:</strong> A platform for local private sectors to share information of job listing to the jobseekers.
-  - <strong>Small business advertising:</strong> A platform for local small business to expose and to share information on selling their products to the public. 
-  - <strong>Admin:</strong> Provide the administator with the capabilites to create, update, delete, and read.
+  <br><strong>Project Description:</strong>
+  <p> This project involves the development of an Android mobile application that serves as a centralized platform for local brunei private sector job postings and small business product advertising. The application connects job seekers with employment opportunities while enabling small businesses to promote their products to the public through a mobile-friendly interface. </p>
+ <br></br>
+ <strong> Purpose of the system:</strong> 
+ <p>The purpose of this application is to support local economic growth by improving access to job opportunities and increasing the visibility of small businesses through a single, easy-to-use mobile platform.</p>
+ <br></br>
+
+ <p>Application Features:</p>
+ 
+ <ol>
+  <li>
+    <strong>Job Searching:</strong>
+    <p>
+      A platform for local private sector companies to share job listings and employment opportunities with job seekers.
+    </p>
+  </li>
+
+  <li>
+    <strong>Small Business Advertising:</strong>
+    <p>
+      A platform for local small businesses to promote and share information about their products with the public.
+    </p>
+  </li>
+
+  <li>
+    <strong>Administrator Management:</strong>
+    <p>
+      Provides administrators with the capability to create, update, delete, and view job listings and product advertisements.
+    </p>
+  </li>
+</ol>
+
    <br>
    <img src ="img/JobBusinessBrunei.png"/>
    
