@@ -78,10 +78,10 @@ In addition, I have experience developing simulations and games using the <b>Jav
 - <b>Desktop application for Predator Prey Simulation</b>
    <br>
    <br>
-  - In this project, I designed the class diagram and use case model and assisted in the development of a desktop application <b> simulating fox and rabbit populations</b>.
-  - The simulation models the populations of <b>foxes and rabbits over time within a defined field</b>, showing how their numbers vary dynamically based on interactions between species.
+  - <p>In this project, I designed the class diagram and use case model and assisted in the development of a desktop application <b> simulating fox and rabbit populations</b></p>p>.
+  - <p>The simulation models the populations of <b>foxes and rabbits over time within a defined field</b>, showing how their numbers vary dynamically based on interactions between species.</p>
     <br>
-  - The desktop application was developed using <b> object-oriented principles<b> and the <b>JavaFX library</b>, providing an interactive, real-time visual representation of population dynamics.
+  - <p>The desktop application was developed using <b> object-oriented principles<b> and the <b>JavaFX library</b>, providing an interactive, real-time visual representation of population dynamics.</b></p>
  <br>
      <img src ="img/Predator_prey.png"/>
      <br>
@@ -92,10 +92,8 @@ In addition, I have experience developing simulations and games using the <b>Jav
     <br>
       - <p>In this project, I designed and created the class diagram, activity diagram, and use case diagram, and assisted in the development of a desktop
         application for the Tower of Hanoi game.</p>
-      - The game lets players move disks between rods following the classic rules, validates moves in real-time, updates the display, and detects completion, with
-        optional undo, reset, and minimum moves features.
-      - The desktop application was developed using <b>object-oriented principles</b> and the <b>JavaFX library</b>, providing an interactive and visual interface
-        to solve the classic puzzle.
+      - <p>The game lets players move disks between rods following the classic rules, validates moves in real-time, updates the display, and detects completion,  with optional undo, reset, and minimum moves features.</p>
+      - <p>The desktop application was developed using <b>object-oriented principles</b> and the <b>JavaFX library</b>, providing an interactive and visual interface to solve the classic puzzle.</p>
   <br>
      <img src ="img/Towerofhanoi.png"/>
  
