@@ -6,7 +6,7 @@ I have experience working with wide range of computer programming languages and 
 <br></br>
 My technical background includes <b>Front-end development, Backend system development, Mobile Application development and Computer Vision in Artificial Intelligence (AI)</b>. 
 <br></br>
-In addition, I have experience developing simulations and games using the <b>JavaFX</b>b>library, which strengthened my understanding of object-oriented programming, UI design, and application logic. 
+In addition, I have experience developing simulations and games using the <b>JavaFX</b> library, which strengthened my understanding of object-oriented programming, UI design, and application logic. 
 
 <h2>👨‍💻 Individual Research Development Projects:</h2>
 
