@@ -11,7 +11,7 @@ In addition, I have experience developing simulations and games using the <b>Jav
 - <b>Hybrid Graphical User Authentication for Web-Based Online Banking Using Anchoring and Relaying Recall Techniques and Graphical One-Time Password</b><br>
  <br><strong>Project Description:</strong> <p>I developed a web-based hybrid graphical user authentication system for online banking, which integrates recall-based graphical authentication, recognition-based graphical authentication, and a dynamic graphical one-time password (OTP) mechanism.</p>
 <strong> Purpose of the system:</strong><p> The system was designed to enhance security and usability by combining <b>three core authentication components</b> reducing reliance on traditional text-based passwords.</p>
-<br></br>
+<br>
 
 <p><strong>Core Components:</strong></p>
 
