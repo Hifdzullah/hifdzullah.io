@@ -33,6 +33,8 @@ In addition, I have experience developing simulations and games using the <b>Jav
   <br>
    <img src ="img/GOTP_.png"/>
   </br>
+  <br>
+  <br>
 - <b>Android Mobile Application for Local Private Sector Job posting and Small Business Product Advertising</b>
   <br></br>
     <strong>Project Description:</strong>
