@@ -42,9 +42,8 @@ In addition, I have experience developing simulations and games using the <b>Jav
  <br></br>
  <strong> Purpose of the system:</strong> 
  <p>The purpose of this application is to support local economic growth by improving access to job opportunities and increasing the visibility of small businesses through a single, easy-to-use mobile platform.</p>
- <br></br>
 
- <p>Application Features:</p>
+ <p><strong>Application Feature:</strong></p>
  
  <ol>
   <li>
