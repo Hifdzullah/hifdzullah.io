@@ -86,9 +86,8 @@ In addition, I have experience developing simulations and games using the <b>Jav
      <img src ="img/Predator_prey.png"/>
      <br>
      <br>
+     
  - <b>Desktop application for Tower of Hanoi</b>
-   <br>
-   <br>
    - In this project, I designed and created the class diagram, activity diagram, and use case diagram, and assisted in the development of a desktop application for the Tower of Hanoi game.
    - The game lets players move disks between rods following the classic rules, validates moves in real-time, updates the display, and detects completion, with optional undo, reset, and minimum moves features.
    - The desktop application was developed using <b>object-oriented principles</b> and the <b>JavaFX library</b>, providing an interactive and visual interface to solve the classic puzzle.
