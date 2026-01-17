@@ -31,11 +31,11 @@ In addition, I have experience developing simulations and games using the <b>Jav
   <li>
     <strong>Dynamic graphical one-time password:</strong>
     <p>The system generates a session-based random one-time password. Users enter the OTP based on the locations of their registered images and the system-defined OTP reference locations, ensuring that each authentication attempt uses a unique one-time password.</p>
-
+   <br>
+ <a href="https://youtu.be/pSSw2INK66E">▶️ Watch GUA Authentcation Demo</a>
   <br>
    <img src ="img/GOTP_.png"/>
   </br>
-  <a href="https://youtu.be/yq3bRtBu6CI">▶️ Watch GUA Authentcation Demo</a>
   <br>
   <br>
 - <b>Android Mobile Application for Local Private Sector Job posting and Small Business Product Advertising</b>
@@ -70,7 +70,8 @@ In addition, I have experience developing simulations and games using the <b>Jav
     </p>
   </li>
 </ol>
-
+   <br>
+   <a href="https://youtu.be/yq3bRtBu6CI">▶️ Watch APP Demo</a>
    <br>
    <img src ="img/JobBusinessBrunei.png"/>
    <br>
