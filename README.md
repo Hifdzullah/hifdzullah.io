@@ -35,7 +35,7 @@ In addition, I have experience developing simulations and games using the <b>Jav
   <br>
    <img src ="img/GOTP_.png"/>
   </br>
-  <a href="">▶️ Watch Demo Video</a>
+  <a href="https://youtu.be/yq3bRtBu6CI">▶️ Watch GUA Authentcation Demo</a>
   <br>
   <br>
 - <b>Android Mobile Application for Local Private Sector Job posting and Small Business Product Advertising</b>
