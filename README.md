@@ -33,11 +33,9 @@ In addition, I have experience developing simulations and games using the <b>Jav
     <p>The system generates a session-based random one-time password. Users enter the OTP based on the locations of their registered images and the system-defined OTP reference locations, ensuring that each authentication attempt uses a unique one-time password.</p>
 
   <br>
-   <video width="600" controls>
-  <source src="GUA_Authentication.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+   <img src ="img/GOTP_.png"/>
   </br>
+  [▶️ Watch Demo Video](JobBusinessApp.mp4)
   <br>
   <br>
 - <b>Android Mobile Application for Local Private Sector Job posting and Small Business Product Advertising</b>
